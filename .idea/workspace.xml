@@ -13,14 +13,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2N3qWAaN0sHDkvWzyIdna8RA25l" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -38,6 +41,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -46,12 +51,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0e6adbcf-9b47-4d28-aa41-c56fd29cdfc2" name="Changes" comment="" />
+      <changelist id="9d9e7048-6209-4bf1-8724-32711e5092a9" name="Changes" comment="" />
       <created>1678903143163</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678903143163</updated>
       <workItem from="1678903144380" duration="923000" />
+      <workItem from="1679597673557" duration="16900000" />
     </task>
     <servers />
   </component>

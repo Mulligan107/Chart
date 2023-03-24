@@ -5,3 +5,19 @@ body{
 /* Maxis Section */
 
 /* Tessa Section */
+
+.chartcontainer{
+    width: 60%;
+    height: 98vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chart{
+    width: 50vw;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
