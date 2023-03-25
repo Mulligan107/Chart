@@ -8,7 +8,7 @@ const data = {
             label: 'A+',
             barThickness: 400,
             data: [37],
-            backgroundColor: "#420210",
+            backgroundColor: "#31010c",
             borderRadius: {
                 bottomLeft: 50,
                 bottomRight: 50,
@@ -19,19 +19,19 @@ const data = {
             label: '0+',
             barThickness: 400,
             data: [35],
-            backgroundColor: "#85071d",
+            backgroundColor: "#560311",
         },
         {
             label: 'B+',
             barThickness: 400,
             data: [9],
-            backgroundColor: "#bd223d",
+            backgroundColor: "#640616",
         },
         {
             label: 'A-',
             barThickness: 400,
             data: [6],
-            backgroundColor: "#bd223d",
+            backgroundColor: "#880f25",
         },
         {
             label: '0-',
@@ -43,13 +43,13 @@ const data = {
             label: 'AB',
             barThickness: 400,
             data: [4],
-            backgroundColor: "#ee657e",
+            backgroundColor: "#c73852",
         },
         {
             label: 'B-',
             barThickness: 400,
             data: [2],
-            backgroundColor: "#ee657e",
+            backgroundColor: "#de516b",
         },
         {
             label: 'AB-',
@@ -65,7 +65,7 @@ const data = {
 new Chart(ctx, {
     type: 'bar',
     data: data,
-    plugins: [ChartDataLabels],
+    //plugins: [ChartDataLabels],
     options: {
         plugins: {
 
@@ -75,13 +75,13 @@ new Chart(ctx, {
 
             title: {
                 display: true,
-                text: 'Blood Statistics',
+                text: 'Blood Groups',
                 //align: 'start',
                 padding: {
                     top: 10,
                     bottom: 30,
                 },
-                color: 'white',
+                color: 'black',
                 font: {
                     family: 'Poppins',
                     weight: 200,
@@ -100,11 +100,22 @@ new Chart(ctx, {
         scales: {
             x: {
                 display: false,
+                color: 'white',
                 stacked: true,
+                grid: {
+                    display: false
+                }
             },
             y: {
                 display: false,
-                stacked: true
+                color: 'black',
+                stacked: true,
+                grid: {
+                    display: false
+                },
+                border: {
+                    display: false
+                },
             }
         },
         maintainAspectRatio: false,
