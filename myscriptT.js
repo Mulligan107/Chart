@@ -19,13 +19,13 @@ const data = {
             label: '0+',
             barThickness: 400,
             data: [35],
-            backgroundColor: "#560311",
+            backgroundColor: "#3f020d",
         },
         {
             label: 'B+',
             barThickness: 400,
             data: [9],
-            backgroundColor: "#640616",
+            backgroundColor: "#5d0514",
         },
         {
             label: 'A-',
@@ -84,7 +84,7 @@ new Chart(ctx, {
                 color: 'black',
                 font: {
                     family: 'Poppins',
-                    weight: 200,
+                    weight: 300,
                     size: 36,
                 }
             },

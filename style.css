@@ -2,19 +2,68 @@
 body{
     background-color: #20252A;
 }
+
+a:link{
+    background-color: transparent;
+    text-decoration: none;
+    color: black;
+    font-family: 'Poppins', serif;
+}
+
+a:visited {
+    background-color: transparent;
+    text-decoration: none;
+    color: black;
+    font-family: 'Poppins', serif;
+}
+
+a:hover {
+    background-color: transparent;
+    text-decoration: none;
+    color: #4b73b0;
+    font-family: 'Poppins', serif;
+}
+
+a:active {
+    background-color: transparent;
+    text-decoration: none;
+    color: #88ace3;
+    font-family: 'Poppins', serif;
+}
+
+.nav{
+    width: 100%;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.switchButton{
+    height: 4vh;
+    width: 10vw;
+    background-color: #384049;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
 /* Maxis Section */
 
 /* Tessa Section */
 
 .chartcontainer{
     width: 100%;
-    height: 98vh;
+    height: 93vh;
     display: flex;
+    align-content: center;
     justify-content: center;
-    align-items: center;
 }
 
 .chart{
+    position: absolute;
+    left: 25vw;
+    top: 11vh;
     width: 30vw;
     height: 70vh;
     display: flex;
@@ -24,9 +73,13 @@ body{
     padding-bottom: 4.5vh;
     padding-top: 3vh;
     border-radius: 50px;
+    z-index: 1;
 }
 
 .prozente{
+    position: absolute;
+    left: 50vw;
+    top: 11vh;
     width: 20vw;
     height: 70vh;
     text-align: right;
@@ -35,4 +88,5 @@ body{
     font-weight: 300;
     font-size: large;
     color: white;
+    z-index: 2;
 }
