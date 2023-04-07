@@ -79,7 +79,7 @@ new Chart(ctx, {
                 //align: 'start',
                 padding: {
                     top: 10,
-                    bottom: 30,
+                    bottom: 20,
                 },
                 color: 'black',
                 font: {
