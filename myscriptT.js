@@ -81,7 +81,7 @@ new Chart(ctx, {
                     top: 10,
                     bottom: 20,
                 },
-                color: 'black',
+                color: 'white',
                 font: {
                     family: 'Poppins',
                     weight: 300,
