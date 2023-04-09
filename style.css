@@ -1,6 +1,7 @@
 
 body{
     background-color: #20252A;
+    padding: 0 0 0 0;
 }
 
 a:link{
@@ -75,6 +76,78 @@ a:active {
     padding-top: 3vh;
     border-radius: 50px;
     z-index: 1;
+}
+
+.chartdetails{
+    position: absolute;
+    left: 37.5vw;
+    top: 5vh;
+    width: 5vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding-bottom: 4.5vh;
+    border-radius: 10px;
+    z-index: -5;
+}
+
+.chartdetails2{
+    position: absolute;
+    left: 39vw;
+    top: 0;
+    width: 2vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding-bottom: 4.5vh;
+    z-index: -6;
+}
+.chartdetails3{
+    position: absolute;
+    left: 39.5vw;
+    top: 0;
+    width: 1vw;
+    height: 17vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ee657e;
+    padding-bottom: 4.5vh;
+    z-index: 20;
+}
+
+.chartdetails4{
+    position: absolute;
+    left: 46vw;
+    top: 5vh;
+    width: 3vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding-bottom: 4.5vh;
+    border-radius: 10px;
+    z-index: -6;
+}
+
+.chartdetails5{
+    position: absolute;
+    left: 31vw;
+    top: 5vh;
+    width: 3vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding-bottom: 4.5vh;
+    border-radius: 10px;
+    z-index: -6;
 }
 
 .prozente{
@@ -220,7 +293,7 @@ a:active {
 .line-6 {
     width: 0%;
     height: 6px;
-    background-color: #c73852;
+    background-color: #c4334e;
     animation: 1.8s ease-out 0.9s 1 OneFromLeft;
     animation-fill-mode: forwards;
 
@@ -229,7 +302,7 @@ a:active {
 .line-7 {
     width: 0%;
     height: 6px;
-     background-color: #de516b;
+     background-color: #d5445f;
     animation: 1.8s ease-out 1s 1 OneFromLeft7;
     animation-fill-mode: forwards;
 }

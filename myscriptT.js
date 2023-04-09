@@ -43,13 +43,13 @@ const data = {
             label: 'AB',
             barThickness: 400,
             data: [4],
-            backgroundColor: "#c73852",
+            backgroundColor: "#c4334e",
         },
         {
             label: 'B-',
             barThickness: 400,
             data: [2],
-            backgroundColor: "#de516b",
+            backgroundColor: "#d5445f",
         },
         {
             label: 'AB-',
