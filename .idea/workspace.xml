@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d9e7048-6209-4bf1-8724-32711e5092a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/styleT.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Chart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Chart.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chartM.html" beforeDir="false" afterPath="$PROJECT_DIR$/chartM.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chartT.html" beforeDir="false" afterPath="$PROJECT_DIR$/chartT.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myscriptM.js" beforeDir="false" afterPath="$PROJECT_DIR$/myscriptM.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleM.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleM.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleM.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +72,7 @@
       <workItem from="1680023848127" duration="5429000" />
       <workItem from="1680854800159" duration="5152000" />
       <workItem from="1681002508724" duration="908000" />
-      <workItem from="1681138021045" duration="6112000" />
+      <workItem from="1681138021045" duration="6783000" />
     </task>
     <servers />
   </component>

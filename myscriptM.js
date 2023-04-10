@@ -1,4 +1,3 @@
-// setup
 const data = {
     datasets: [{
         label: 'Essen auf dem Teller',
@@ -45,6 +44,7 @@ const config = {
         scales: {
             x: {
                 type: 'linear',
+                display: false // this will remove all the x-axis grid lines
             },
             y: {
                 beginAtZero: true
