@@ -40,7 +40,7 @@ a:active {
     justify-content: flex-start;
 }
 
-.switchButton{
+.switchButton {
     height: 4vh;
     width: 10vw;
     background-color: #384049;
@@ -50,9 +50,6 @@ a:active {
     border-radius: 5px;
     margin-left: 3vw;
 }
-/* Maxis Section */
-
-/* Tessa Section */
 
 .chartcontainer{
     width: 100%;
