@@ -74,6 +74,7 @@
       <workItem from="1681282997289" duration="975000" />
       <workItem from="1681384261600" duration="273000" />
       <workItem from="1683532143389" duration="440000" />
+      <workItem from="1685032592074" duration="2251000" />
     </task>
     <servers />
   </component>
@@ -93,5 +94,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/myscriptM.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
